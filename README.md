@@ -1,4 +1,4 @@
-# TERCERA PRÁCTICA CALIFICADA - COMPUTACIÓN GRÁFICA
+# PROYECTO DE CURSO - COMPUTACIÓN GRÁFICA
 <p align="center">
   <img width="833" height="1015" alt="LOGO_UNI" src="https://github.com/user-attachments/assets/172ef688-84e2-46aa-9c60-c4d199e9dfdb" />
 </p>
